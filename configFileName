@@ -1,0 +1,1 @@
+[{"grayId":200,"grayName":"测试","graySwitch":1,"whiteList":[3385,2134,5430],"blackList":[33851,21341,54301],"grayIntervalCell":20,"grayIntervalFloor":80,"createTime":{"date":{"year":2020,"month":2,"day":28},"time":{"hour":16,"minute":36,"second":51,"nano":984000000}}}]
