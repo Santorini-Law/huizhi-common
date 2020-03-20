@@ -1,4 +1,4 @@
 
+Zsquid:S1068""<Remove this unused "DEFAULT_THREAD_POOL_NAME" private field.(Ú‰¬8ÒÎº×ˆ.
 Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óñ¼×ˆ.
 zsquid:UselessImportCheck"JRemove this unused import 'org.springframework.core.io.ClassPathResource'.(İ¹º§ıÿÿÿÿ8œçÜ×ˆ.
-Zsquid:S1068""<Remove this unused "DEFAULT_THREAD_POOL_NAME" private field.(Ú‰¬8ÒÎº×ˆ.
